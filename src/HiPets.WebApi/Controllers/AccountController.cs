@@ -182,8 +182,8 @@ namespace HiPets.WebApi.Controllers
             var response = new
             {
                 access_token = encodedJwt,
-                userId = userIdentity.Id,
-                isAdmin = true
+                userId = userIdentity.Id
+                isAdmin = roles.FirstOrDefault(r => r == "Admin") != null
             };
 
             return response;
