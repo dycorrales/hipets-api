@@ -1,0 +1,35 @@
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.deps.json
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.dll
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.pdb
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.csprojAssemblyReference.cache
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.AssemblyInfoInputs.cache
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.AssemblyInfo.cs
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.dll
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Domain\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.pdb
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.csproj.CoreCompileInputs.cache
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.AssemblyInfoInputs.cache
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.AssemblyInfo.cs
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.dll
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.pdb
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.deps.json
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.dll
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.pdb
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.csprojAssemblyReference.cache
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.deps.json
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.dll
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.csprojAssemblyReference.cache
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.AssemblyInfoInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.AssemblyInfo.cs
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.dll
+C:\Users\daniel.cuenca\Documents\Dariel\GerenciadorDeConsultas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.deps.json
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.dll
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.Domain\bin\Debug\netstandard2.0\Gerenciador.Domain.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.AssemblyInfoInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.AssemblyInfo.cs
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.dll
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.Domain\obj\Debug\netstandard2.0\Gerenciador.Domain.pdb

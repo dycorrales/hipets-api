@@ -1,0 +1,6 @@
+C:\Users\daniel.cuenca\Documents\S2It\Tribanco\Projects\Tribanco.Core\tribanco.core\src\Tribanco.Core.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Tribanco.Core.Infra.CrossCutting.IoC.deps.json
+C:\Users\daniel.cuenca\Documents\S2It\Tribanco\Projects\Tribanco.Core\tribanco.core\src\Tribanco.Core.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Tribanco.Core.Infra.CrossCutting.IoC.dll
+C:\Users\daniel.cuenca\Documents\S2It\Tribanco\Projects\Tribanco.Core\tribanco.core\src\Tribanco.Core.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Tribanco.Core.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cuenca\Documents\S2It\Tribanco\Projects\Tribanco.Core\tribanco.core\src\Tribanco.Core.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Tribanco.Core.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\daniel.cuenca\Documents\S2It\Tribanco\Projects\Tribanco.Core\tribanco.core\src\Tribanco.Core.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Tribanco.Core.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\daniel.cuenca\Documents\S2It\Tribanco\Projects\Tribanco.Core\tribanco.core\src\Tribanco.Core.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Tribanco.Core.Infra.CrossCutting.IoC.csprojAssemblyReference.cache

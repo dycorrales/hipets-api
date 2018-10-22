@@ -1,0 +1,9 @@
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\bin\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.deps.json
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\bin\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.dll
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\bin\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\obj\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.csprojAssemblyReference.cache
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\obj\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\obj\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.AssemblyInfoInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\obj\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.AssemblyInfo.cs
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\obj\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.dll
+C:\Users\daniel.cuenca\Documents\Dariel\eCon\src\Gerenciador.CrossCutting.AspnetFilters\obj\Debug\netstandard2.0\Gerenciador.CrossCutting.AspnetFilters.pdb

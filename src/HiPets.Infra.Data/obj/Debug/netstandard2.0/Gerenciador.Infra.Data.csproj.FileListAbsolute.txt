@@ -1,0 +1,21 @@
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Infra.Data.deps.json
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Infra.Data.dll
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Domain.dll
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Domain.pdb
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.csprojAssemblyReference.cache
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.AssemblyInfo.cs
+C:\Users\dycor\OneDrive\Documentos\Visual Studio 2017\Projects\Gerenciador.Infra.Data\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.csproj.CopyComplete
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.csprojAssemblyReference.cache
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.AssemblyInfoInputs.cache
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.AssemblyInfo.cs
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Infra.Data.deps.json
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Infra.Data.dll
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Infra.Data.pdb
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Domain.dll
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\bin\Debug\netstandard2.0\Gerenciador.Domain.pdb
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.csproj.CopyComplete
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.dll
+D:\Sistemas\GerenciadorDeConsultas\Gerenciador\src\Gerenciador.Infra.Data\obj\Debug\netstandard2.0\Gerenciador.Infra.Data.pdb

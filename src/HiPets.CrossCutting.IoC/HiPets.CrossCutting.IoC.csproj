@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="MediatR" Version="5.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HiPets.Application\HiPets.Application.csproj" />
+    <ProjectReference Include="..\HiPets.CrossCutting.AspnetFilters\HiPets.CrossCutting.AspnetFilters.csproj" />
+    <ProjectReference Include="..\HiPets.CrossCutting.Identity\HiPets.CrossCutting.Identity.csproj" />
+    <ProjectReference Include="..\HiPets.Domain\HiPets.Domain.csproj" />
+    <ProjectReference Include="..\HiPets.Infra.Data\HiPets.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

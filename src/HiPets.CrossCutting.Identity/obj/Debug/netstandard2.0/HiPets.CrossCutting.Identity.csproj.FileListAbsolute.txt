@@ -1,0 +1,12 @@
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\bin\Debug\netstandard2.0\HiPets.CrossCutting.Identity.deps.json
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\bin\Debug\netstandard2.0\HiPets.CrossCutting.Identity.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\bin\Debug\netstandard2.0\HiPets.CrossCutting.Identity.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\bin\Debug\netstandard2.0\HiPets.Domain.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\bin\Debug\netstandard2.0\HiPets.Domain.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\obj\Debug\netstandard2.0\HiPets.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\obj\Debug\netstandard2.0\HiPets.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\obj\Debug\netstandard2.0\HiPets.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\obj\Debug\netstandard2.0\HiPets.CrossCutting.Identity.AssemblyInfo.cs
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\obj\Debug\netstandard2.0\HiPets.CrossCutting.Identity.csproj.CopyComplete
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\obj\Debug\netstandard2.0\HiPets.CrossCutting.Identity.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hi-pets-api\src\HiPets.CrossCutting.Identity\obj\Debug\netstandard2.0\HiPets.CrossCutting.Identity.pdb

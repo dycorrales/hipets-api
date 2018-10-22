@@ -1,0 +1,15 @@
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\bin\Debug\netstandard2.0\Resource.resx
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\bin\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.deps.json
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\bin\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.dll
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\bin\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.pdb
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\bin\Debug\netstandard2.0\Coimma.Balpass.Core.Domain.dll
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\bin\Debug\netstandard2.0\Coimma.Balpass.CrossCutting.Resources.dll
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\bin\Debug\netstandard2.0\Coimma.Balpass.Core.Domain.pdb
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\bin\Debug\netstandard2.0\Coimma.Balpass.CrossCutting.Resources.pdb
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\obj\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\obj\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\obj\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\obj\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\obj\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\obj\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.dll
+C:\Users\daniel.cuenca\Documents\S2It\Coimma\BalPass\ecosystem\balpass-api\src\Coimma.Balpass.Infra.CrossCutting.Identity\obj\Debug\netstandard2.0\Coimma.Balpass.Infra.CrossCutting.Identity.pdb
