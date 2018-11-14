@@ -25,7 +25,7 @@ namespace HiPets.WebApi.Controllers
         private readonly IAdopterService _adopterService;
         private readonly ILogger _logger;
 
-        public AnimalController(IAnimalService animalService, IAdopterService adopterService, IMediatorHandler mediator, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUser user) : base(mediator, notifications, loggerFactory, user)
+        public AnimalController(IAnimalService animalService, IAdopterService adopterService, IMediatorBus mediator, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUser user) : base(mediator, notifications, loggerFactory, user)
         {
             _animalService = animalService;
             _adopterService = adopterService;

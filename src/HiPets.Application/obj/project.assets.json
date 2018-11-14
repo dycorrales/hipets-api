@@ -2189,11 +2189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.Application\\HiPets.Application.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.Application\\HiPets.Application.csproj",
       "projectName": "HiPets.Application",
-      "projectPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.Application\\HiPets.Application.csproj",
+      "projectPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.Application\\HiPets.Application.csproj",
       "packagesPath": "C:\\Users\\daniel.cuenca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.Application\\obj\\",
+      "outputPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2212,8 +2212,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.Domain\\HiPets.Domain.csproj": {
-              "projectPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.Domain\\HiPets.Domain.csproj"
+            "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.Domain\\HiPets.Domain.csproj": {
+              "projectPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.Domain\\HiPets.Domain.csproj"
             }
           }
         }

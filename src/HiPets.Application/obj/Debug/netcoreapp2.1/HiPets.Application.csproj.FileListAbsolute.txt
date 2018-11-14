@@ -34,3 +34,15 @@ C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hipets\hi-pets-api\src\HiPets.App
 C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hipets\hi-pets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.csproj.CopyComplete
 C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hipets\hi-pets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.dll
 C:\Users\daniel.cuenca\Documents\Dariel\HiPets\hipets\hi-pets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\bin\Debug\netcoreapp2.1\HiPets.Application.deps.json
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\bin\Debug\netcoreapp2.1\HiPets.Application.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\bin\Debug\netcoreapp2.1\HiPets.Application.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\bin\Debug\netcoreapp2.1\HiPets.Domain.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\bin\Debug\netcoreapp2.1\HiPets.Domain.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.csprojAssemblyReference.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.AssemblyInfoInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.AssemblyInfo.cs
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.csproj.CopyComplete
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\src\HiPets.Application\obj\Debug\netcoreapp2.1\HiPets.Application.pdb

@@ -12,23 +12,11 @@ namespace HiPets.Application.Services
         private readonly IUnitOfWork _unitOfWork;
         private readonly IAnimalService _animalService;
 
-        public AdoptionService(IAnimalService animalService, IMediatorHandler mediator, IUnitOfWork unitOfWork, IAdoptionRepository repository) : base(mediator, unitOfWork, repository)
+        public AdoptionService(IAnimalService animalService, IMediatorBus mediator, IUnitOfWork unitOfWork, IAdoptionRepository repository) : base(mediator, unitOfWork, repository)
         {
             _repository = repository;
             _unitOfWork = unitOfWork;
             _animalService = animalService;
-        }
-
-        public PagingResult<Adoption> GetAdoptions(int page, int pageSize, AdoptionStatus? adoptionStatus = null, string searchString = null, bool? isActive = null)
-        {
-            Status? status = null;
-
-            if (isActive != null)
-            {
-                status = isActive.Value ? Status.Active : Status.Inactive;
-            }
-
-            return _repository.GetAdoptions(page, pageSize, adoptionStatus, searchString, status);
         }
 
         public void InsertAdoption(Guid animalId, Guid adopterId)

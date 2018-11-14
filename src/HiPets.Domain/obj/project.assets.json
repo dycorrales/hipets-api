@@ -1687,11 +1687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.Domain\\HiPets.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.Domain\\HiPets.Domain.csproj",
       "projectName": "HiPets.Domain",
-      "projectPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.Domain\\HiPets.Domain.csproj",
+      "projectPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.Domain\\HiPets.Domain.csproj",
       "packagesPath": "C:\\Users\\daniel.cuenca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.Domain\\obj\\",
+      "outputPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

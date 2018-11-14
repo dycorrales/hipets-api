@@ -15,18 +15,25 @@ using HiPets.Domain.Entities;
 using HiPets.Domain.Helpers;
 using HiPets.WebApi.Filters;
 using HiPets.CrossCutting.Identity.Models;
+using HiPets.Domain.Commands;
 
 namespace HiPets.WebApi.Controllers
 {
     [Route("adoptions")]
     public class AdoptionController : BaseController
     {
+        private readonly IMediatorBus _mediator;
         private readonly IAdoptionService _adoptionService;
+        private readonly QueryStack.Repositories.IAdoptionRepository _adoptionRepository;
         private readonly ILogger _logger;
+        private readonly IUser _user;
 
-        public AdoptionController(IAdoptionService adoptionService, IMediatorHandler mediator, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUser user) : base(mediator, notifications, loggerFactory, user)
+        public AdoptionController(QueryStack.Repositories.IAdoptionRepository adoptionRepository, IAdoptionService adoptionService, IMediatorBus mediator, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUser user) : base(mediator, notifications, loggerFactory, user)
         {
             _adoptionService = adoptionService;
+            _adoptionRepository = adoptionRepository;
+            _mediator = mediator;
+            _user = user;
             _logger = loggerFactory.CreateLogger("Error");
         }
 
@@ -39,23 +46,31 @@ namespace HiPets.WebApi.Controllers
             {
                 var result = new PagingResultViewModel<AdoptionListViewModel>();
 
-                var pagingAdoptions = _adoptionService.GetAdoptions(filter.Page.Value, filter.PageSize.Value, filter.AdoptionStatus, filter.Search, filter.IsActive);
+                Status? status = null;
+
+                if (filter.IsActive != null)
+                {
+                    status = filter.IsActive.Value ? Status.Active : Status.Inactive;
+                }
+
+                var userId = _user.IsAdminUser ? null : (Guid?)_user.GetUserId();
+
+                var pagingAdoptions = _adoptionRepository.GetAdoptions(userId, filter.Page.Value, filter.PageSize.Value, filter.AdoptionStatus, filter.Search, status);
 
                 if (pagingAdoptions.Elements.Any())
                 {
                     var adoptionsListViewModel = pagingAdoptions.Elements.Select(adoption => new AdoptionListViewModel()
                     {
                         Id = adoption.Id,
-                        AnimalName = adoption.Animal.Name,
-                        AnimalBreed = adoption.Animal.Breed,
-                        AnimalType = adoption.Animal.AnimalType.GetDescription(),
-                        AdopterName = adoption.Adopter.Name,
-                        AnimalPictureUrl = adoption.Animal.PictureUrl,
-                        AdopterPhoneNumber = adoption.Adopter.ContactInfo.FormatPhoneNumber,
-                        AdopterEmail = adoption.Adopter.ContactInfo.Email,
-                        Status = adoption.Status,
+                        AnimalName = adoption.AnimalName,
+                        AnimalBreed = adoption.AnimalBreed,
+                        AnimalType = adoption.AnimalType,
+                        AdopterName = adoption.AdopterName,
+                        AnimalPictureUrl = adoption.AnimalPictureUrl,
+                        AdopterPhoneNumber = adoption.AdopterPhoneNumber,
+                        AdopterEmail = adoption.AdopterEmail,
                         AdoptionStatus = adoption.AdoptionStatus.GetDescription(),
-                        AdoptionObservation = adoption.Observation
+                        AdoptionObservation = adoption.AdoptionObservation
                     });
 
                     result = new PagingResultViewModel<AdoptionListViewModel>(filter.Page.Value, filter.PageSize.Value)
@@ -92,8 +107,12 @@ namespace HiPets.WebApi.Controllers
                     NotifyInvalidModelError();
                     return RequestResponse(HttpStatusCode.BadRequest, isError: true, result: "Os dados fornecidos são inválidos");
                 }
-                
-                _adoptionService.InsertAdoption(adoptionViewModel.AnimalId, adoptionViewModel.AdopterId);
+
+                //_adoptionService.InsertAdoption(adoptionViewModel.AnimalId, adoptionViewModel.AdopterId);
+                _mediator.SendCommand(new RequestAdoption(){
+                    AnimalId = adoptionViewModel.AnimalId,
+                    AdopterId = adoptionViewModel.AdopterId
+                });
 
                 return IsAValidOperation()
                     ? RequestResponse(HttpStatusCode.Created, "hipets/api/v1/adoptions")

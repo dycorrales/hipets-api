@@ -1,11 +1,12 @@
 ﻿using HiPets.Domain.Entities;
 using HiPets.Domain.Helpers;
 using HiPets.Domain.Helpers.Utils;
+using System;
 
 namespace HiPets.Domain.Interfaces
 {
     public interface IAdoptionRepository : IRepository<Adoption>
     {
-        PagingResult<Adoption> GetAdoptions(int page, int pageSize, AdoptionStatus? adoptionStatus = null, string searchString = null, Status? status = null);
+        int InsertAdoptionRequested(Guid id, DateTime createdAt, Guid animalId, string animalName, string animalBreed, string animalPictureUrl, string animalType, Guid adopterId, string adopterName, string adopterPhoneNumber, string adopterEmail, string adoptionObservation, AdoptionStatus adoptionStatus);
     }
 }

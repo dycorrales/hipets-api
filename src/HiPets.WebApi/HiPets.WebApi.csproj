@@ -28,6 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\HiPets.QueryStack\HiPets.QueryStack.csproj" />
     <ProjectReference Include="..\HiPets.Application\HiPets.Application.csproj" />
     <ProjectReference Include="..\HiPets.CrossCutting.AspnetFilters\HiPets.CrossCutting.AspnetFilters.csproj" />
     <ProjectReference Include="..\HiPets.CrossCutting.IoC\HiPets.CrossCutting.IoC.csproj" />

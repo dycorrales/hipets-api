@@ -12,11 +12,11 @@ namespace HiPets.Application.Services
 {
     public abstract class Service<T> where T : Entity
     {
-        private readonly IMediatorHandler _mediator;
+        private readonly IMediatorBus _mediator;
         private readonly IRepository<T> _repository;
         private readonly IUnitOfWork _unitOfWork;
 
-        public Service(IMediatorHandler mediator, IUnitOfWork unitOfWork, IRepository<T> repository)
+        public Service(IMediatorBus mediator, IUnitOfWork unitOfWork, IRepository<T> repository)
         {
             _mediator = mediator;
             _repository = repository;

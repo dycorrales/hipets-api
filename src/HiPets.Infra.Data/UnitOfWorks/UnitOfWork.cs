@@ -15,10 +15,10 @@ namespace HiPets.Infra.Data.UnitOfWorks
     public class UnitOfWork : IUnitOfWork
     {
         private readonly Context _context;
-        private readonly IMediatorHandler _mediatorHandler;
+        private readonly IMediatorBus _mediatorHandler;
         private readonly ILogger _logger;
 
-        public UnitOfWork(Context context, IMediatorHandler mediatorHandler, ILoggerFactory logger)
+        public UnitOfWork(Context context, IMediatorBus mediatorHandler, ILoggerFactory logger)
         {
             _context = context;
             _mediatorHandler = mediatorHandler;

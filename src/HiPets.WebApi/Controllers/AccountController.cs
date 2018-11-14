@@ -27,14 +27,14 @@ namespace HiPets.WebApi.Controllers
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly ILogger _logger;
-        private readonly IMediatorHandler _mediator;
+        private readonly IMediatorBus _mediator;
         private readonly TokenDescriptor _tokenDescriptor;
         private readonly IAdopterRepository _adopterRepository;
         private readonly IUnitOfWork _unitOfWork;
 
         private static long ToUnixEpochDate(DateTime date) => (long)Math.Round((date.ToUniversalTime() - new DateTimeOffset(1970, 1, 1, 0, 0, 0, TimeSpan.Zero)).TotalSeconds);
 
-        public AccountController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, TokenDescriptor tokenDescriptor, IUser user, IMediatorHandler mediator, IAdopterRepository adopterRepository, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUnitOfWork unitOfWork) : base(mediator, notifications, loggerFactory, user)
+        public AccountController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, TokenDescriptor tokenDescriptor, IUser user, IMediatorBus mediator, IAdopterRepository adopterRepository, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUnitOfWork unitOfWork) : base(mediator, notifications, loggerFactory, user)
         {
             _unitOfWork = unitOfWork;
             _userManager = userManager;
@@ -182,7 +182,7 @@ namespace HiPets.WebApi.Controllers
             var response = new
             {
                 access_token = encodedJwt,
-                userId = userIdentity.Id
+                userId = userIdentity.Id,
                 isAdmin = roles.FirstOrDefault(r => r == "Admin") != null
             };
 

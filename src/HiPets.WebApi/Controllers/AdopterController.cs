@@ -24,7 +24,7 @@ namespace HiPets.WebApi.Controllers
         private readonly IAdopterService _adopterService;
         private readonly ILogger _logger;
 
-        public AdopterController(IAdopterService adopterService, IMediatorHandler mediator, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUser user) : base(mediator, notifications, loggerFactory, user)
+        public AdopterController(IAdopterService adopterService, IMediatorBus mediator, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUser user) : base(mediator, notifications, loggerFactory, user)
         {
             _adopterService = adopterService;
             _logger = loggerFactory.CreateLogger("Error");

@@ -9,7 +9,7 @@ namespace HiPets.Application.Services
     {
         private readonly IAnimalRepository _repository;
 
-        public AnimalService(IMediatorHandler mediator, IUnitOfWork unitOfWork, IAnimalRepository repository) : base(mediator, unitOfWork, repository)
+        public AnimalService(IMediatorBus mediator, IUnitOfWork unitOfWork, IAnimalRepository repository) : base(mediator, unitOfWork, repository)
         {
             _repository = repository;
         }

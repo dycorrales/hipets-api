@@ -1,0 +1,14 @@
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\obj\Debug\netcoreapp2.1\HiPets.QueryStack.csprojAssemblyReference.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\obj\Debug\netcoreapp2.1\HiPets.QueryStack.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\obj\Debug\netcoreapp2.1\HiPets.QueryStack.AssemblyInfoInputs.cache
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\obj\Debug\netcoreapp2.1\HiPets.QueryStack.AssemblyInfo.cs
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\bin\Debug\netcoreapp2.1\HiPets.QueryStack.deps.json
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\bin\Debug\netcoreapp2.1\HiPets.QueryStack.runtimeconfig.json
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\bin\Debug\netcoreapp2.1\HiPets.QueryStack.runtimeconfig.dev.json
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\bin\Debug\netcoreapp2.1\HiPets.QueryStack.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\bin\Debug\netcoreapp2.1\HiPets.QueryStack.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\bin\Debug\netcoreapp2.1\HiPets.Domain.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\bin\Debug\netcoreapp2.1\HiPets.Domain.pdb
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\obj\Debug\netcoreapp2.1\HiPets.QueryStack.csproj.CopyComplete
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\obj\Debug\netcoreapp2.1\HiPets.QueryStack.dll
+C:\Users\daniel.cuenca\Documents\Dariel\HiPets_Git\hipets-api\HiPets.QueryStack\obj\Debug\netcoreapp2.1\HiPets.QueryStack.pdb

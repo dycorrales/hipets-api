@@ -16,9 +16,9 @@ namespace HiPets.WebApi.Controllers
     {
         protected DomainNotificationHandler Notifications { get; }
         protected ILogger Logger { get; }
-        protected IMediatorHandler Mediator { get; }
+        protected IMediatorBus Mediator { get; }
 
-        protected BaseController(IMediatorHandler mediator, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUser user)
+        protected BaseController(IMediatorBus mediator, INotificationHandler<DomainNotification> notifications, ILoggerFactory loggerFactory, IUser user)
         {
             Mediator = mediator;
             Notifications = (DomainNotificationHandler)notifications;

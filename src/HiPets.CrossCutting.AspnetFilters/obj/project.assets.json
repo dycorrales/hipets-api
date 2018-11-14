@@ -7062,11 +7062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.CrossCutting.AspnetFilters\\HiPets.CrossCutting.AspnetFilters.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.CrossCutting.AspnetFilters\\HiPets.CrossCutting.AspnetFilters.csproj",
       "projectName": "HiPets.CrossCutting.AspnetFilters",
-      "projectPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.CrossCutting.AspnetFilters\\HiPets.CrossCutting.AspnetFilters.csproj",
+      "projectPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.CrossCutting.AspnetFilters\\HiPets.CrossCutting.AspnetFilters.csproj",
       "packagesPath": "C:\\Users\\daniel.cuenca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets\\hipets\\hi-pets-api\\src\\HiPets.CrossCutting.AspnetFilters\\obj\\",
+      "outputPath": "C:\\Users\\daniel.cuenca\\Documents\\Dariel\\HiPets_Git\\hipets-api\\src\\HiPets.CrossCutting.AspnetFilters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
